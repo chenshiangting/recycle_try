@@ -1,0 +1,23 @@
+[
+null,
+null,
+{"id":2,"expanded":false,"name":"2小镇","order":3,"parentId":0,"scrollX":814.6666666666666,"scrollY":591.3333333333334,"quick":false},
+{"id":3,"expanded":false,"name":"結局","order":1,"parentId":0,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+null,
+{"id":5,"expanded":true,"name":"5小村民居 磚窗","order":10,"parentId":15,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+{"id":6,"expanded":false,"name":"6物品商店","order":11,"parentId":0,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+{"id":7,"expanded":false,"name":"7公會 1楼","order":4,"parentId":0,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+null,
+null,
+{"id":10,"expanded":true,"name":"10髒酒吧","order":6,"parentId":12,"scrollX":814.6666666666666,"scrollY":454,"quick":true},
+{"id":11,"expanded":false,"name":"小镇","order":2,"parentId":0,"scrollX":814.6666666666666,"scrollY":667.3333333333334,"quick":false},
+{"id":12,"expanded":true,"name":"12酒吧","order":5,"parentId":0,"scrollX":814.6666666666666,"scrollY":454,"quick":true},
+null,
+null,
+{"id":15,"expanded":true,"name":"15小村民居 淹水","order":9,"parentId":16,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+{"id":16,"expanded":true,"name":"16小村民居 1楼","order":8,"parentId":0,"scrollX":814.6666666666666,"scrollY":454,"quick":false},
+null,
+null,
+null,
+{"id":20,"expanded":true,"name":"20学校 教室","order":7,"parentId":0,"scrollX":825.3333333333334,"scrollY":538,"quick":false}
+]
